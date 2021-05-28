@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace T2008M_AP.AssignmentOne
+namespace ConsoleApplication1.Assignment
 {
     public class ClimateControl : Clothing
     {

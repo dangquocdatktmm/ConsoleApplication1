@@ -2,20 +2,21 @@
 
 namespace ConsoleApplication1.Assignment
 {
-    public class Sports : Clothing
+    public class TrendSetting : Clothing
     {
-        
-        public Sports()
+        public TrendSetting()
         {
             materials = new []
             {
-                "Viscose Cotton",
-                "Flax",
-                "Wool",
-                "Hemp",
-                "Ramie",
-                "Silk",
-                "Lyocell"
+                "Cotton Polyester",
+                "Rayon",
+                "Linen",
+                "Satin",
+                "Georgette",
+                "Moss Crepe",
+                "Net",
+                "Lace",
+                "Jacquard Velvet"
             };
             regionsWithMaximumSales = new[]
             {
