@@ -38,6 +38,11 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Assignment\ClimateControl.cs" />
+        <Compile Include="Assignment\Clothing.cs" />
+        <Compile Include="Assignment\Program.cs" />
+        <Compile Include="Assignment\Sports.cs" />
+        <Compile Include="Assignment\TrendSetting.cs" />
         <Compile Include="Lab1\Product.cs" />
         <None Include="Lab1\Program.cs" />
     </ItemGroup>
