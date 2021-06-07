@@ -40,7 +40,13 @@
     <ItemGroup>
         <Compile Include="Assignment\ClimateControl.cs" />
         <Compile Include="Assignment\Clothing.cs" />
-        <Compile Include="Assignment\Program.cs" />
+        <Compile Include="PRACTICAL\Exercise1\Cylinder.cs" />
+        <Compile Include="PRACTICAL\Exercise1\Program.cs" />
+        <Compile Include="PRACTICAL\Exercise2\Base.cs" />
+        <Compile Include="PRACTICAL\Exercise2\Lion.cs" />
+        <None Include="PRACTICAL\Exercise2\Program.cs" />
+        <Compile Include="PRACTICAL\Exercise2\Tiger.cs" />
+        <None Include="Assignment\Program.cs" />
         <Compile Include="Assignment\Sports.cs" />
         <Compile Include="Assignment\TrendSetting.cs" />
         <Compile Include="Lab1\Product.cs" />
